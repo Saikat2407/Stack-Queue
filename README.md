@@ -1,7 +1,5 @@
 # Stack-Queue
 
-* Stack and queue in java!
-
 **Stack** -> LIFO & FILO
 
 **Queue** -> FIFO & LILO
