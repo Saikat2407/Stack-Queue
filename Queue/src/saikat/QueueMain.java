@@ -14,6 +14,7 @@ public class QueueMain {
 
         System.out.println(queue.remove());
         System.out.println(queue.remove());
+        System.out.println(queue.remove());
 
         queue.display();
 
