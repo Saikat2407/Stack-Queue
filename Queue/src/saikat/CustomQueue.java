@@ -63,5 +63,6 @@ public class CustomQueue {
         queue.insert(80);
 
         queue.display();
+
     }
 }
