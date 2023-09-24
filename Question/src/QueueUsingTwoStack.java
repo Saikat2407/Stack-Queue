@@ -1,7 +1,8 @@
-import java.util.Queue;
+//https://leetcode.com/problems/implement-queue-using-stacks/description/
+
 import java.util.Stack;
 
-public class ques1 {
+public class QueueUsingTwoStack {
     public static void main(String[] args) {
 
 
