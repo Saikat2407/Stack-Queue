@@ -5,7 +5,6 @@ import java.util.Stack;
 public class QueueUsingTwoStack {
     public static void main(String[] args) {
 
-
     }
 }
 
